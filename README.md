@@ -1,7 +1,7 @@
 # Themes-for-openbox
-#### Requirements
+### Requirements
 1. LXQT
 2. Openbox
-##### Installation
+### Installation
     $ chmod +x install.sh && ./install.sh
-1. Change theme from openbox to macos(big sur-dark)
+Change theme from openbox to macos(big sur-dark)
